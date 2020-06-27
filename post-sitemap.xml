@@ -7,6 +7,14 @@
     </url>
 
     <url>
+        <loc>https://pickonefish.github.io/kubernetes-install/</loc>
+        <lastmod>2020-06-27T03:54:25.449Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://pickonefish.github.io/enabling-theme-system/</loc>
         <lastmod>2018-08-05T16:39:34.000Z</lastmod>
         <changefreq>weekly</changefreq>
