@@ -2,57 +2,64 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>https://pickonefish.github.io/tags/ui/</loc>
-        <lastmod>2018-08-04T13:39:49.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://pickonefish.github.io/tags/oauth/</loc>
-        <lastmod>2018-08-05T16:31:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://pickonefish.github.io/tags/auth/</loc>
-        <lastmod>2018-08-05T16:32:24.000Z</lastmod>
+        <lastmod>2020-10-17T13:16:36.268Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://pickonefish.github.io/tags/token/</loc>
-        <lastmod>2018-08-05T16:32:24.000Z</lastmod>
+        <lastmod>2020-10-17T13:16:36.268Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://pickonefish.github.io/tags/angular/</loc>
-        <lastmod>2018-08-05T16:39:34.000Z</lastmod>
+        <lastmod>2020-10-17T13:16:36.272Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://pickonefish.github.io/tags/akveo-nebular/</loc>
-        <lastmod>2018-08-05T16:39:34.000Z</lastmod>
+        <lastmod>2020-10-17T13:16:36.272Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://pickonefish.github.io/tags/ngx-admin/</loc>
-        <lastmod>2018-08-05T16:39:34.000Z</lastmod>
+        <lastmod>2020-10-17T13:16:36.272Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://pickonefish.github.io/tags/auth/</loc>
+        <lastmod>2020-10-17T13:16:36.272Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://pickonefish.github.io/tags/ui/</loc>
+        <lastmod>2020-10-17T13:16:36.272Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://pickonefish.github.io/tags/kubernetes/</loc>
-        <lastmod>2020-06-27T03:54:25.449Z</lastmod>
+        <lastmod>2020-10-17T13:16:36.272Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://pickonefish.github.io/tags/bpmn/</loc>
+        <lastmod>2020-12-10T18:21:26.593Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

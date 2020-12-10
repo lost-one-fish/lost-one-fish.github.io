@@ -7,96 +7,8 @@
     </url>
 
     <url>
-        <loc>https://pickonefish.github.io/kubernetes-install/</loc>
-        <lastmod>2020-06-27T03:54:25.449Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://pickonefish.github.io/enabling-theme-system/</loc>
-        <lastmod>2018-08-05T16:39:34.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://pickonefish.github.io/install-into-existing/</loc>
-        <lastmod>2018-08-05T16:39:24.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://pickonefish.github.io/install-starter-kit/</loc>
-        <lastmod>2018-08-05T16:39:20.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://pickonefish.github.io/concept-theme-system/</loc>
-        <lastmod>2018-08-05T16:38:50.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://pickonefish.github.io/auth-install/</loc>
-        <lastmod>2018-08-05T16:38:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://pickonefish.github.io/auth-token/</loc>
-        <lastmod>2018-08-05T16:32:24.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://pickonefish.github.io/auth-intro/</loc>
-        <lastmod>2018-08-05T16:32:09.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://pickonefish.github.io/auth-oauth2/</loc>
-        <lastmod>2018-08-05T16:31:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://pickonefish.github.io/auth-guard/</loc>
-        <lastmod>2018-08-04T13:41:04.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://pickonefish.github.io/start/</loc>
-        <lastmod>2018-08-04T13:40:40.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://pickonefish.github.io/index/</loc>
-        <lastmod>2018-08-04T13:39:59.000Z</lastmod>
+        <loc>https://pickonefish.github.io/bpmn/</loc>
+        <lastmod>2020-12-10T18:21:26.593Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -104,7 +16,95 @@
 
     <url>
         <loc>https://pickonefish.github.io/auth-ui/</loc>
-        <lastmod>2018-08-04T13:39:49.000Z</lastmod>
+        <lastmod>2020-10-17T13:16:36.272Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://pickonefish.github.io/concept-theme-system/</loc>
+        <lastmod>2020-10-17T13:16:36.272Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://pickonefish.github.io/enabling-theme-system/</loc>
+        <lastmod>2020-10-17T13:16:36.272Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://pickonefish.github.io/index/</loc>
+        <lastmod>2020-10-17T13:16:36.272Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://pickonefish.github.io/install-into-existing/</loc>
+        <lastmod>2020-10-17T13:16:36.272Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://pickonefish.github.io/install-starter-kit/</loc>
+        <lastmod>2020-10-17T13:16:36.272Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://pickonefish.github.io/kubernetes-install/</loc>
+        <lastmod>2020-10-17T13:16:36.272Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://pickonefish.github.io/start/</loc>
+        <lastmod>2020-10-17T13:16:36.272Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://pickonefish.github.io/auth-guard/</loc>
+        <lastmod>2020-10-17T13:16:36.268Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://pickonefish.github.io/auth-install/</loc>
+        <lastmod>2020-10-17T13:16:36.268Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://pickonefish.github.io/auth-intro/</loc>
+        <lastmod>2020-10-17T13:16:36.268Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://pickonefish.github.io/auth-oauth2/</loc>
+        <lastmod>2020-10-17T13:16:36.268Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -112,7 +112,15 @@
 
     <url>
         <loc>https://pickonefish.github.io/auth-strategy/</loc>
-        <lastmod>2018-08-04T13:39:45.000Z</lastmod>
+        <lastmod>2020-10-17T13:16:36.268Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://pickonefish.github.io/auth-token/</loc>
+        <lastmod>2020-10-17T13:16:36.268Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
